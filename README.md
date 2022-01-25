@@ -7,7 +7,7 @@
 
 #### Tecnologias que aprendi
 
-<p>
+<p style="display: grid; justify-content: space-around">
     <img src="https://raw.githubusercontent.com/arturo1997/arturo1997/main/html-icon.png" />
     <img src="https://raw.githubusercontent.com/arturo1997/arturo1997/main/css-icon.png" />
     <img src="https://raw.githubusercontent.com/arturo1997/arturo1997/main/javascript-icon.png" />
