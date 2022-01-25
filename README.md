@@ -8,6 +8,6 @@
 #### Tecnologias que aprendi
 
 <p>
-    <img src="https://raw.githubusercontent.com/arturo1997/arturo1997/main/html-icon.png" />
+    p
 </p>
 
